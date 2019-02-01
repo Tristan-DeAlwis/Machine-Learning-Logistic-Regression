@@ -1,6 +1,6 @@
 %% Machine Learning Logistic Regression
 % Tristan De Alwis
-% January 20th, 2019
+% January 27th, 2019
 %% Initialization
 clear ; close all; clc
 
