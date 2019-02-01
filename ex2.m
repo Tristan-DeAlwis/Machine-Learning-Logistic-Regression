@@ -1,4 +1,6 @@
-%% Machine Learning Online Class - Exercise 2: Logistic Regression
+%% Machine Learning Logistic Regression
+% Tristan De Alwis
+% January 20th, 2019
 %% Initialization
 clear ; close all; clc
 
